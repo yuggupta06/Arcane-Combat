@@ -1,0 +1,3 @@
+shift + x -> for super punch attack
+R -> for sword attack
+Q-> for bomb attack
